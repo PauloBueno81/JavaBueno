@@ -150,6 +150,7 @@ public class iBank {
             break;          
 
             case 6: //SAIDA
+            System.out.println("Ate Breve...");
             break;
 
             default:
